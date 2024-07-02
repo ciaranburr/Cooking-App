@@ -1,3 +1,7 @@
+This is a project I am currently devloping with the ChatGPT API. It currently takes recommendations, queries the API, and returns specific results based on what was asked. I am plannning on creating a login feature to store data in the future, as well as working more with the AI itself for better response in later devlopment.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
